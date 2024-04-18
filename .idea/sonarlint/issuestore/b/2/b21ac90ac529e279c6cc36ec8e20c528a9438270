@@ -1,0 +1,14 @@
+
+_
+java:S1643"Use a StringBuilder instead.(‡Ü”â8ÃÑœ—ï1J$8998b79d-422d-47a6-9eea-f623c9171137
+d
+java:S1643"Use a StringBuilder instead.(´ğ°üøÿÿÿÿ8ÃÑœ—ï1J$754afaa2-f578-41ed-a344-336a3b9d9a48
+d
+java:S1643"Use a StringBuilder instead.(¤­±¸ûÿÿÿÿ8ÃÑœ—ï1J$740ecaaf-8123-4a46-b2a1-2582ad251486
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä˜´8ÕÑœ—ï1J$aede88e1-a58f-44cd-b723-d31201e080d2
+m	java:S106"+Replace this use of System.out by a logger.(—±Èÿ8ÛÑœ—ï1J$76a1c142-d2fa-4c2e-a70e-bef57fb72511
+m	java:S106 "+Replace this use of System.out by a logger.(Ñç8ÜÑœ—ï1J$3f2c08fc-4ab5-4347-be4b-0ebcd4d81634
+q
+java:S2140%")Use "java.util.Random.nextInt()" instead.(Ó»©Éıÿÿÿÿ8İÑœ—ï1J$1a445efe-6348-421e-be83-26ef78cbf22d
+
+java:S3923+"[Remove this conditional structure or edit its code blocks so that they're not all the same.(­¹ŞÒ8ìò—ï1J$e0e1a81b-6c6d-4b75-adca-7ce36e5571da
